@@ -19,7 +19,7 @@
   ![Drop Logo Transparent BG](https://tinyurl.com/drop-logo-none)
 - **Tagline:** 🌟 _A better way to send money. Drop the Rest, Pick the Best._
 - **LinkedIn:** [🔗 View on LinkedIn](https://www.linkedin.com/company/drop-wallet/about/?viewAsMember=true)
-- **Site URL:** [🌐 drop-wallet.github.io](drop-wallet.github.io)
+- **Site URL:** [🌐 drop-wallet.github.io](https://drop-wallet.github.io)
 
 ---
 
