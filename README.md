@@ -12,8 +12,10 @@
 
 - **Name:** 🎉 Drop
 - **Logo (White BG):** 
+
   ![Drop Logo White BG](https://tinyurl.com/drop-logo-wht)
 - **Logo (No BG):** 
+
   ![Drop Logo Transparent BG](https://tinyurl.com/drop-logo-none)
 - **Tagline:** 🌟 _A better way to send money. Drop the Rest, Pick the Best._
 - **LinkedIn:** [🔗 View on LinkedIn](https://www.linkedin.com/company/drop-wallet/about/?viewAsMember=true)
